@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammet Ali</h1>
-<h3 align="center">I am a hamburger</h3>
+<h3 align="center">I am a human</h3>
 
 - 🔭 I’m currently working on **ritimOS**
-
-- ⚡ Fun fact **I am Best Girişimci ever lived in Turkey**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
